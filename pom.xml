@@ -17,7 +17,7 @@
 
   <properties>
     <!-- Default parameters for mvn exec:exec -->
-    <clazz>com.hackdays.beam.DateDimension</clazz>
+    <clazz>com.hackdays.beam.Checkouts</clazz>
     <!--<input>kinglear.txt</input>-->
     <output>wordcounts.txt</output>
     <parallelism>1</parallelism>

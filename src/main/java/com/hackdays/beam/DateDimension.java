@@ -18,14 +18,12 @@ import org.joda.time.DateTimeZone;
 
 import java.util.Objects;
 
-;
-
 /**
  * Created by solackerman on 2016-06-09.
  */
 
 public class DateDimension {
-    
+
     public interface Options extends PipelineOptions, FlinkPipelineOptions {
 
         @Description("Path of the file to write to")
@@ -90,3 +88,4 @@ class DateRecord {
         return Objects.equals(_date_key, o._date_key) && Objects.equals(datetime, o.datetime);
     }
 }
+

@@ -1,10 +1,15 @@
 com/hackdays/beam/DateDimension$1.class
 com/hackdays/beam/Hackdays1$Options.class
 com/hackdays/beam/DateDimension.class
-com/hackdays/beam/App.class
+com/hackdays/beam/Checkouts$1.class
 com/hackdays/beam/Hackdays1.class
 com/hackdays/beam/DateRecord.class
 com/hackdays/beam/DateDimension$2.class
-com/hackdays/beam/Hackdays1$1.class
 com/hackdays/beam/DateDimension$Options.class
+com/hackdays/beam/Checkouts$Options.class
 com/hackdays/beam/Hackdays1$2.class
+com/hackdays/beam/Checkouts$FormatAsStringFn.class
+com/hackdays/beam/App.class
+com/hackdays/beam/Hackdays1$1.class
+com/hackdays/beam/Checkouts.class
+com/hackdays/beam/Checkouts$2.class
